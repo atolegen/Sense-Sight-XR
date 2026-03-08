@@ -15,4 +15,4 @@ SpineSight XR is a HoloLens 2 application designed for school-based scoliosis sc
 ### Value Proposition
 Standard school screenings are subjective and prone to human error. SpineSight XR provides objective, repeatable data to help school nurses identify at-risk students and accelerate referrals to orthopedic specialists.
 
-[Link to spinal deformity risk model] (https://github.com/marmiskarian/spinal-deformity-risk-ml)
+[Link to spinal deformity risk model](https://github.com/marmiskarian/spinal-deformity-risk-ml)
