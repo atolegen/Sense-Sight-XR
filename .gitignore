@@ -72,3 +72,5 @@ app/Il2CppOutputProject/
 
 # Node modules
 node_modules/
+
+app/.vs/Spine Sight XR/v16/Browse.VC.db
